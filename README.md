@@ -26,9 +26,17 @@ Este projeto implementa um agente capaz de analisar a complexidade ciclomática 
 ---
 
 ## 🖥️ Prints de Respostas, Fluxo e Execução
+### ✅ Script e Action
+<img width="1101" height="694" alt="action-interprete-codigo" src="https://github.com/user-attachments/assets/e1519ff7-b33c-4e24-ad5c-ac8e7d32e80a" />
+
+[complexidade_ciclomatica.py](https://github.com/marianapcorrea/Agente-de-Analise-de-Complexidade-Ciclomatica/blob/main/complexidade_ciclomatica.py)
+
 ### ✅ Interação inicial com o agente
+<img width="1167" height="694" alt="interacao-inicial" src="https://github.com/user-attachments/assets/efcc1510-f71f-4535-8685-3b8948be2cf6" />
 
 ### ✅ Exemplo de Entrada
+<img width="1169" height="699" alt="exemplo-entrada-funcao" src="https://github.com/user-attachments/assets/47d11d4c-0f07-4abb-b093-71ff7c686f42" />
+
 ```python
 def filtrar_e_transformar(valores):        
     resultado = []        
@@ -52,10 +60,13 @@ def filtrar_e_transformar(valores):
     return resultado    
 ```
 ### ✅ Execução do Script
+<img width="1164" height="707" alt="execucao_script" src="https://github.com/user-attachments/assets/3fd09fcb-937f-4e82-87ee-9100cba2507b" />
 
 ### ✅ Resposta Final do Agente
-### ✅ Fluxo de Execução (Diagrama)
+<img width="1182" height="716" alt="exemplo-resposta-final-agente" src="https://github.com/user-attachments/assets/52cb07b7-e3ec-476a-b0b2-2a3ca6a27492" />
 
+### ✅ Fluxo de Execução (Diagrama)
+<img width="1364" height="740" alt="fluxo-execucao" src="https://github.com/user-attachments/assets/1624045e-55e3-4cc2-a034-b8d04fde3dd2" />
 
 ## 🔗 Links e Referências
 
@@ -92,5 +103,10 @@ Este projeto **não aceita contribuições externas**.
 ## 📄 Licença
 
 Este projeto está licenciado sob a **Licença MIT**:
+
+---
+
+* Este **readme.md** e o arquivo **complexidade_ciclomatica.py** foram gerados com auxílio de IA
+
 
 
